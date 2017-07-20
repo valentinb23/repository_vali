@@ -10,7 +10,7 @@ public class Student {
 	}
 
 	public void setName(String name) {
-		this.name = name;//nume
+		this.name = name;//nume prenume
 	}
 
 	public int getAge() {
